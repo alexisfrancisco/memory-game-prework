@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of Memory Game:
-![X] http://g.recordit.co/MnAXSKPrbv.gif
+![] http://g.recordit.co/MnAXSKPrbv.gif
 
 ## Reflection Questions
 
